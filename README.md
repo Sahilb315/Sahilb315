@@ -6,7 +6,7 @@ Bachelor of Computer Applications (BCA)
 Chandigarh Group Of Colleges, Landran
 
 🌟 Key Interests:
-Android App Development
+Android App Development & 
 Flutter Framework
 
 I'm eager to connect with like-minded individuals, fellow developers, and mentors who share a passion for mobile app development. I believe in the power of collaboration and continuous learning to achieve great results.
