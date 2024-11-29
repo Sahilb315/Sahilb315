@@ -1,4 +1,4 @@
-<h3 align="left">Hello, I'm Sahil Bansal, a dedicated and enthusiastic student currently pursuing a Bachelor of Computer Applications (BCA) degree. My passion lies in mobile app development, and I'm on an exciting journey to explore the world of Android app development.<br><br>📚 Education: Bachelor of Computer Applications (BCA) Chandigarh Group Of Colleges, Landran<br><br>🌟 Key Interests: Android App Development & Flutter Framework<br><br>I'm eager to connect with like-minded individuals, fellow developers, and mentors who share a passion for mobile app development. I believe in the power of collaboration and continuous learning to achieve great results.</h3>
+<h3 align="left">Hello, I'm Sahil. I am always excited about exploring systems & doing backend development<br><br>📚 Education: Bachelor of Computer Applications (BCA) Chandigarh Group Of Colleges, Landran<br><br>🌟 Key Interests: Backend Development & System Design<br><br>I'm eager to connect with like-minded individuals, fellow developers, and mentors. I believe in the power of collaboration and continuous learning to achieve great results.</h3>
 
 ###
 
