@@ -5,6 +5,12 @@
 
 # Experience
 
+## SafeDep | Remote  
+**Software Engineer - Intern**  
+*March 2025 - Present*  
+
+---
+
 ## CodingJr | Remote  
 **Software Developer - Intern**  
 *June 2024 - October 2024*  
