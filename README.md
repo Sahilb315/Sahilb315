@@ -1,35 +1,26 @@
-### Hey there 👋
+# Hey, I’m Sahil
 
-I'm a software engineer passionate about backend systems, low-level development, and OSS security.
+I'm an Software engineer interested in backend systems, low-level development, and OSS security.
 
-💼 Currently at [SafeDep](https://safedep.io), working on improving supply chain security  
-🛠️ On weekends, building [Runbox](https://github.com/sahilb315/runbox), a sandbox runner from scratch
+Currently working on supply-chain security at **SafeDep**.  
+On weekends, exploring Linux internals, databases, and OSS software supply-chain security.
 
----
+## Things I’ve Built
 
-### 🧠 What I Work With
+- **AtomixDB**  
+  A SQL database written from scratch in Go.  
+  Reached 260k+ views, trended on Hacker News, and led to a tech talk invite at Just Eat Takeaway.
 
-- **Languages**: Go, Dart, TypeScript/JavaScript  
-- **Frameworks**: Flutter, Next.js  
+- **Runbox**  
+  A sandbox built from scratch to explore process isolation, execution, and system-level behavior.
 
----
+## Languages I’m Currently Working With
 
-### 🔍 Things I’m Proud Of
+- **Go** – primary
+- **C** – systems work (Runbox, Linux internals)
 
-- 📦 Built [AtomixDB](https://github.com/sahilb315/atomixdb), a SQL-based database from scratch in Go  
-  → Gained **260k+ views**, **trended on Hacker News**, and caught the eye of engineers worldwide  
-- 🎤 Invited by [Just Eat Takeaway](https://justeattakeaway.com/) for a [tech talk](https://www.youtube.com/watch?v=pzHSeuq3kgA) on AtomixDB  
 
----
+## Find Me At
 
-### 🧪 Currently Exploring
-
-- Linux internals  
-- OSS software supply chain security
-
----
-
-### ⚙️ Let's Talk Systems, Stacks & Side Projects 
-
-- [Twitter](https://twitter.com/sahilbansall121)  
-- [LinkedIn](https://www.linkedin.com/in/sahilb315)
+- Twitter: https://twitter.com/sahilbansall121  
+- LinkedIn: https://www.linkedin.com/in/sahilb315
